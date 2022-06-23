@@ -1,2 +1,2 @@
 #!/bin/bash
-% chmod -v 740 hello
+chmod -v 744 hello
